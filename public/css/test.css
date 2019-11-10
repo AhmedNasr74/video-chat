@@ -1,0 +1,25 @@
+.page_body1
+{
+ background-color : #fff !important
+}
+.custom_input,.wpcf7-form textarea
+{
+    padding-left: 5px !important;
+    padding-top: 5px !important;
+    border: 1px solid #ddb048 !important;
+    font-weight: bold;
+    border-bottom: 1px solid #ddb048 !important;
+    border-radius: 5px !important;
+    outline: #ddb048;
+    color: gray !important;
+}
+input[type=number]:active
+{
+    border-bottom: 1px solid #ddb048 !important;
+}
+.one_half
+{
+    width: 48% !important;
+    float: left;
+    margin: 0px 5px;
+}
